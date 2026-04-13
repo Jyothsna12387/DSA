@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jyothsna12387/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Jyothsna12387/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jyothsna12387/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyothsna12387/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Jyothsna12387/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jyothsna12387/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Jyothsna12387/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Jyothsna12387/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Jyothsna12387/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
