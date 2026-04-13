@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Jyothsna12387/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jyothsna12387/DSA/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothsna12387/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -88,9 +90,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
