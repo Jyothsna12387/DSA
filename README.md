@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jyothsna12387/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jyothsna12387/DSA/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Jyothsna12387/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jyothsna12387/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
