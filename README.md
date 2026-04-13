@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jyothsna12387/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jyothsna12387/DSA/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Jyothsna12387/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Jyothsna12387/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
