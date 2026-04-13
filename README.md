@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyothsna12387/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyothsna12387/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Jyothsna12387/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyothsna12387/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jyothsna12387/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Jyothsna12387/DSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Jyothsna12387/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Jyothsna12387/DSA/tree/master/0796-rotate-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Jyothsna12387/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Jyothsna12387/DSA/tree/master/0316-remove-duplicate-letters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
