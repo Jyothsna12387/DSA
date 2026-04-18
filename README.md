@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Jyothsna12387/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
