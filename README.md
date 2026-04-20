@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jyothsna12387/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jyothsna12387/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jyothsna12387/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothsna12387/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Jyothsna12387/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothsna12387/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jyothsna12387/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jyothsna12387/DSA/tree/master/0316-remove-duplicate-letters) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothsna12387/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
