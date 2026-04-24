@@ -2,6 +2,10 @@ class Solution {
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character, Character> map = new HashMap<>();
         int n = s.length();
+        if(s.length() != t.length()){
+            return false;
+        }
+        
         for(int i=0; i<n; i++){
             char ch = s.charAt(i);
 
