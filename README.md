@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jyothsna12387/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/Jyothsna12387/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Jyothsna12387/DSA/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothsna12387/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Jyothsna12387/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/Jyothsna12387/DSA/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
