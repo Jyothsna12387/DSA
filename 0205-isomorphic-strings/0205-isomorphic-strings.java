@@ -8,7 +8,7 @@ class Solution {
 
         for(int i=0; i<n; i++){
             char ch1 = s.charAt(i);
-            int ch2 = t.charAt(i);
+            char ch2 = t.charAt(i);
 
             //check if the last seen index for thse two characters are equal or not
             if(mapST[ch1] != mapTS[ch2]){
