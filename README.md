@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Jyothsna12387/DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Jyothsna12387/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyothsna12387/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothsna12387/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Jyothsna12387/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jyothsna12387/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jyothsna12387/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jyothsna12387/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/Jyothsna12387/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
