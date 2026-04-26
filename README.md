@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Jyothsna12387/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothsna12387/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jyothsna12387/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/Jyothsna12387/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jyothsna12387/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothsna12387/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jyothsna12387/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jyothsna12387/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jyothsna12387/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jyothsna12387/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jyothsna12387/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
