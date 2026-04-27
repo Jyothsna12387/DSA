@@ -8,7 +8,7 @@ class Solution {
                 char ch = s.charAt(j);
                 freq[ch - 'a']++;
                 int max = 0;
-                int min = Integer.MAX_VALUE;
+                int min = n;
                 for(int count : freq){
                     if(count > 0){
                          max = Math.max(max,count);
