@@ -1,13 +1,12 @@
 class Solution {
     public String frequencySort(String s) {
+        if(s == null || s.isEmpty()) return s;
         HashMap<Character,Integer> map = new HashMap();
-
         for(char ch : s.toCharArray()){
             map.put(ch, map.getOrDefault(ch,0)+1);
         }
 
         List<Character>[] bucket = new ArrayList[s.length()+1];
-
         //fill buckets
         for(char ch : map.keySet()){
             int freq = map.get(ch);
