@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jyothsna12387/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Jyothsna12387/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyothsna12387/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyothsna12387/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Jyothsna12387/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Jyothsna12387/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Jyothsna12387/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyothsna12387/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jyothsna12387/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2615-sum-of-distances](https://github.com/Jyothsna12387/DSA/tree/master/2615-sum-of-distances) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jyothsna12387/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Jyothsna12387/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jyothsna12387/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Jyothsna12387/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyothsna12387/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyothsna12387/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
