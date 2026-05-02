@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jyothsna12387/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Jyothsna12387/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Jyothsna12387/DSA/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyothsna12387/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jyothsna12387/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jyothsna12387/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Jyothsna12387/DSA/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Jyothsna12387/DSA/tree/master/0647-palindromic-substrings) |
+| [0788-rotated-digits](https://github.com/Jyothsna12387/DSA/tree/master/0788-rotated-digits) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jyothsna12387/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
