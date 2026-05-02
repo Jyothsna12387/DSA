@@ -5,17 +5,22 @@ class Solution {
     public int atMost(int[] nums, int k){
         int count = 0;
         int left = 0;
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int[] freq = new int[nums.length+1];
+        int distinctCount = 0;
 
         for(int right=0; right<nums.length; right++){
             int val = nums[right];
-            map.put(val,map.getOrDefault(val,0)+1);
+            if(freq[val] == 0){
+                distinctCount++;
+            }
+            freq[val]++;
+            
 
-            while(map.size() > k){
-                map.put(nums[left], map.get(nums[left])-1);
+            while(distinctCount > k){
+                freq[nums[left]]--;
 
-                if(map.get(nums[left]) == 0){
-                    map.remove(nums[left]);
+                if(freq[nums[left]] == 0){
+                    distinctCount--;
                 }
                 left++;
             }
