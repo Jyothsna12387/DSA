@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jyothsna12387/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jyothsna12387/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Jyothsna12387/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jyothsna12387/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jyothsna12387/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jyothsna12387/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jyothsna12387/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jyothsna12387/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jyothsna12387/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jyothsna12387/DSA/tree/master/0268-missing-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jyothsna12387/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Jyothsna12387/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Jyothsna12387/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Jyothsna12387/DSA/tree/master/0867-transpose-matrix) |
