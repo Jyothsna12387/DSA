@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Jyothsna12387/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Jyothsna12387/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Jyothsna12387/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Jyothsna12387/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyothsna12387/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jyothsna12387/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Jyothsna12387/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
