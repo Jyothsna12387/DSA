@@ -22,17 +22,20 @@ class Solution {
             temp = temp.next;
             n++;
         }
-        temp.next = head;
 
         k = k % n;
-        int steps = n-k;
-        ListNode curr = head;
-        for(int i=1; i<steps; i++){
-            curr = curr.next;
-        }
-        ListNode newHead = curr.next;
-        curr.next = null;
+        for(int i=0; i<k; i++){
+            ListNode curr = head;
+            ListNode prev = null;
 
-        return newHead;
+            while(curr.next != null){
+                prev = curr;
+                curr = curr.next;
+            }
+            prev.next = null;
+            curr.next = head;
+            head = curr;
+        }
+        return head;
     }
 }
