@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Jyothsna12387/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jyothsna12387/DSA/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3660-jump-game-ix](https://github.com/Jyothsna12387/DSA/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jyothsna12387/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothsna12387/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Jyothsna12387/DSA/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Jyothsna12387/DSA/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/Jyothsna12387/DSA/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/Jyothsna12387/DSA/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jyothsna12387/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
