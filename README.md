@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothsna12387/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/Jyothsna12387/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jyothsna12387/DSA/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jyothsna12387/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothsna12387/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Jyothsna12387/DSA/tree/master/3660-jump-game-ix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Jyothsna12387/DSA/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Jyothsna12387/DSA/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/Jyothsna12387/DSA/tree/master/0788-rotated-digits) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jyothsna12387/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Jyothsna12387/DSA/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jyothsna12387/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
