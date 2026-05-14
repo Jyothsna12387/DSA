@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Jyothsna12387/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jyothsna12387/DSA/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jyothsna12387/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Jyothsna12387/DSA/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothsna12387/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Jyothsna12387/DSA/tree/master/3660-jump-game-ix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Jyothsna12387/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyothsna12387/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jyothsna12387/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/Jyothsna12387/DSA/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Jyothsna12387/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyothsna12387/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jyothsna12387/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2615-sum-of-distances](https://github.com/Jyothsna12387/DSA/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Jyothsna12387/DSA/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothsna12387/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothsna12387/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
