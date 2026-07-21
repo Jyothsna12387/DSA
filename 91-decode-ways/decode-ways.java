@@ -5,21 +5,25 @@ class Solution {
         if(n == 0)  return 1;
 
         int[] dp = new int[n+1];
+        
         dp[0] = 1;
         dp[1] = s.charAt(0) == '0' ? 0 : 1;
 
-        for(int i = 2; i <= n; i++) {
+         for (int i = 2; i <= n; i++) {
 
-           // Single digit
-            if(s.charAt(i - 1) != '0')
-              dp[i] += dp[i - 1];
+            int oneDigit = Integer.valueOf(s.substring(i - 1, i));
+            int twoDigits = Integer.valueOf(s.substring(i - 2, i));
 
-            // Two digits
-            int num = Integer.parseInt(s.substring(i - 2, i));
-
-            if(num >= 10 && num <= 26)
-                  dp[i] += dp[i - 2];
+            // Treat current digit as a single digit
+            if (oneDigit >= 1) {
+                dp[i] += dp[i - 1];
             }
-            return dp[n];
+
+            // Treat last two digits as one letter
+            if (twoDigits >= 10 && twoDigits <= 26) {
+                dp[i] += dp[i - 2];
+            }
+         }
+        return dp[n];
       }
 }
