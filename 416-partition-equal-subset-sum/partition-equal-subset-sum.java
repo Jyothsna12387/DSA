@@ -21,12 +21,7 @@ class Solution {
         //fill dp table
         for(int ind=1; ind<n; ind++){
             for(int t=target; t>=nums[ind]; t--){
-                boolean skip = dp[t];
-                boolean take = false;
-                if(nums[ind] <= t){
-                  take = dp[t-nums[ind]];
-                }
-                dp[t] = take || skip;
+                dp[t] = dp[t] || dp[t-nums[ind]];
             }
         }
         return dp[target];
