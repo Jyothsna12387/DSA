@@ -1,37 +1,34 @@
 class Solution {
-    public boolean solve(int ind, int target, int[] nums, int[][] dp){
-        //base cases
-        if(target == 0) return true;
-        if(ind == 0) return nums[0] == target; //single element left
-
-        if(dp[ind][target] != -1) 
-            return dp[ind][target] == 1;
-
-        //try all possibilities
-        boolean skip = solve(ind-1, target, nums, dp);
-        boolean take = false;
-
-        if(nums[ind] <= target){
-            take = solve(ind-1, target-nums[ind], nums, dp);
-        }
-        dp[ind][target] = (take || skip) ? 1 : 0;
-        return take || skip;
-    }
     public boolean canPartition(int[] nums) {
         int n = nums.length;
         int totalsum = 0;
         for(int x : nums){
             totalsum += x;
         }
-
         if(totalsum % 2 != 0) return false;
         int target = totalsum / 2;
 
-        int[][] dp = new int[n][target+1];
-        for(int[] row : dp){
-            Arrays.fill(row, -1);
+        boolean[][] dp = new boolean[n][target+1];
+
+        //base case 1(target is 0)
+        for(int i=0; i<n; i++){
+            dp[i][0] = true;
         }
-        
-        return solve(n-1,target,nums,dp);
+        //base case 2
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
+        }
+        //fill dp table
+        for(int ind=1; ind<n; ind++){
+            for(int t=1; t<=target; t++){
+                boolean skip = dp[ind-1][t];
+                boolean take = false;
+                if(nums[ind] <= t){
+                  take = dp[ind-1][t-nums[ind]];
+                }
+                dp[ind][t] = take || skip;
+            }
+        }
+        return dp[n-1][target];
     }
 }
