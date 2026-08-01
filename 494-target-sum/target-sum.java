@@ -21,10 +21,10 @@ class Solution {
         for(int num : nums){
             totalsum += num;
         }
-        int s2 = (totalsum - target)/2;
+        int s2 = (totalsum + target)/2;
 
         // Impossible cases
-        if (totalsum - target < 0 || (totalsum - target) % 2 != 0) {
+        if (totalsum + target < 0 || (totalsum + target) % 2 != 0) {
             return 0;
         }
 
