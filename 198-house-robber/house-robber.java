@@ -1,21 +1,21 @@
 class Solution {
-    
     public int rob(int[] nums) {
         int n = nums.length;
-        int[] dp = new int[n];
-  
-        //base case
-        dp[0] = nums[0];
+
+        int prev1 = nums[0];
+        int prev2 = 0;
 
         for(int i=1; i<n; i++){
-            int skip = dp[i-1];
+            int skip = prev1;
             // int take = nums[i] + dp[i-2];
             int take = nums[i];
             if(i > 1){
-                take += dp[i-2];
+                take += prev2;
             }
-            dp[i] = Math.max(take, skip);
+            int curr = Math.max(take, skip);
+            prev2 = prev1;
+            prev1 = curr;
         }
-        return dp[n-1];
+        return prev1;
     }
 }
